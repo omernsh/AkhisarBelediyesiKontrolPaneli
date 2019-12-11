@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "402836940051",
+    "firebase_url": "https://akhisar-belediyesi.firebaseio.com",
+    "project_id": "akhisar-belediyesi",
+    "storage_bucket": "akhisar-belediyesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402836940051:android:d0be4a63187da2be1fe6e6",
+        "android_client_info": {
+          "package_name": "com.akhisarbelediyesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402836940051-fek0jck2repnnd6b2k3iuuoek9pvfvpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akhisarbelediyesi",
+            "certificate_hash": "235f288c96185ad2721d3083864b86b182d0e533"
+          }
+        },
+        {
+          "client_id": "402836940051-f6pbpe2nsgnvrsdr169h4nee4i5q3fgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCiET6l8MSVB1PkRIIMygjmiSmYOeDIKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402836940051-f6pbpe2nsgnvrsdr169h4nee4i5q3fgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402836940051:android:b3a6fd59b78c121d1fe6e6",
+        "android_client_info": {
+          "package_name": "com.n.akhisarbelediyesikontrolpaneli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402836940051-oll9kvq40vqtm7rccf0peibnsdn62sb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.n.akhisarbelediyesikontrolpaneli",
+            "certificate_hash": "235f288c96185ad2721d3083864b86b182d0e533"
+          }
+        },
+        {
+          "client_id": "402836940051-f6pbpe2nsgnvrsdr169h4nee4i5q3fgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCiET6l8MSVB1PkRIIMygjmiSmYOeDIKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402836940051-f6pbpe2nsgnvrsdr169h4nee4i5q3fgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
